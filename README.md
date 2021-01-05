@@ -59,4 +59,4 @@ Example:
 * Instead of seeking perfection, what a reviewer should seek is continuous improvement
 * Review should be fast (1 day maximum)
 
-More information: [Pull Request](PullRequest.md)
+More information: [Pull Request](pull_request.md)
