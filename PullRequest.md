@@ -71,6 +71,8 @@ Ref: [Navigating a CL in review](https://google.github.io/eng-practices/review/r
 * Balance giving explicit directions with just pointing out problems and letting 
 the developer decide.
 * Encourage developers to simplify code
+* Use [conventional: comments](https://conventionalcomments.org/)
+
 
 Ref: [How to write code review comments](https://google.github.io/eng-practices/review/reviewer/comments.html)
 
