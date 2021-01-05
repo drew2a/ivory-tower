@@ -7,12 +7,6 @@
 Ref: [Google Engineering Practices Documentation](https://google.github.io/eng-practices)
 Ref: [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
-### Branching Model
-
-* Use [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow) by default
-* While merge, use `rebase + merge –no–ff` ([more information](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow#option-3-rebase-merge-no-ff))
-* [Merge or rebase](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
-
 ### Creating PR
 
 > Reviewers rarely complain about getting CLs that are too small.
