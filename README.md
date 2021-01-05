@@ -46,12 +46,28 @@ Example:
 // TODO(drew2a) Add todo convention to CONTRIBUTING.md
 ```
 
-### Branching Model
+## Branching Model
 
 * Use [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow) by default
 * While merge, use `rebase + merge –no–ff` ([more information](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow#option-3-rebase-merge-no-ff))
 * [Merge or rebase](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
 
+
+## Branch naming convention
+
+* Use slash to separate groups of branches
+* Use a ticket key in a branch name
+
+Example
+
+```
+feature/123
+feature/657-add-travis-ci
+
+fix/741
+
+release/1.2
+```
 
 ## PR
 
