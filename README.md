@@ -76,3 +76,7 @@ release/1.2
 * Review should be fast (1 day maximum)
 
 More information: [Pull Request](pull_request.md)
+
+## Bookmarks
+
+* https://datatracker.ietf.org/doc/html/rfc2119
