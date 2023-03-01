@@ -79,4 +79,6 @@ More information: [Pull Request](pull_request.md)
 
 ## Bookmarks
 
-* https://datatracker.ietf.org/doc/html/rfc2119
+* Key words for use in RFCs to Indicate Requirement Levels: https://datatracker.ietf.org/doc/html/rfc2119
+* Large-Scale Scrum: https://less.works/
+* Getting Real: https://basecamp.com/gettingreal 
