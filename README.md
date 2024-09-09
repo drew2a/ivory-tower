@@ -34,6 +34,9 @@ If you have your own guide, please keep it as general as possible.
 
 As is described at [Documentation/SubmittingPatches in the Git repo](https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/SubmittingPatches?id=HEAD#n133)
 
+#### Alternative commit message notation
+A specification for adding human and machine readable meaning to commit messages: https://www.conventionalcommits.org/en/v1.0.0/
+
 ## TODO Comments
 
 TODOs should include the string TODO in all caps, followed by the name, or other 
